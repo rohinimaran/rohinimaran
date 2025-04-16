@@ -40,7 +40,6 @@
 [![Ragunarhjayakumar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RagunathJayakumar&bg_color=000000&color=31d351&line=4c9e6c&point=1ddd2a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thankyou+For+Visiting +Me!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thankyou+for+visiting+me!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
