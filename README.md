@@ -3,7 +3,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=HI+there+It's+me+Ragunath!;Web+Developer!;UI/UX+Designer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+It's+me+Rohini!;Software+Developer!;UI/UX+Designer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 
@@ -21,12 +21,12 @@
 - 💬 Ask me about Tech
 
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ragunath-j-728a28304/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/rohini-m-software-developer/)
 
 - 😄 Pronouns: Techie
 
 
-- ⚡ Fun fact: I know Japanese.
+
 
 
 ### I code in
